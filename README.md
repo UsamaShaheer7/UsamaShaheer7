@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Usama Shaheer👋 </h1>
 <p align="center">
-  <a href="https://github.com/UsamaShaheer7"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/UsamaShaheer7"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
