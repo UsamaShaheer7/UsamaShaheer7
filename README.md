@@ -4,16 +4,11 @@
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="Usama Shaheer" height="30" width="40" /></a>
-<a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://leetcode.com/Saadfareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://dev.to/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://twitter.com/SaadFar80645693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saad-fareed-3343a21b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16696790/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saadfareed_sadi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/saadfareed/Home?isEditing=False" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="SaadFareed" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/usamashaheer7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="UsamaShaheer" height="30" width="40" /></a>
+
+
+
 </p>
 <br>
 
@@ -23,7 +18,7 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-  <a href="https://github.com/saadfareed"><span>
+  <a href="https://github.com/UsamaShaheer7"><span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
