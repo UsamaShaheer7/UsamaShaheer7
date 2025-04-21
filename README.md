@@ -35,10 +35,6 @@
   <img width=700 src="https://github-profile-trophy.vercel.app/?username=saadfareed&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
-<hr>
-<h2>Spotify Playing 🎧</h2>
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <hr>
 <p align="center"> 
